@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5351f05e-98f4-42cc-8e6a-33022518c94f++24" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5351f05e-98f4-42cc-8e6a-33022518c94f++24" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D914BDAF-3E97-428A-B306-E8C6419D0BD7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5351f05e-98f4-42cc-8e6a-33022518c94f++24" : "..\/TooTooiPhoneCode_5.0"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "底部导航Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "底部导航Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/119.254.17.138\/repos",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5351f05e-98f4-42cc-8e6a-33022518c94f++24"
+    }
+  ]
+}

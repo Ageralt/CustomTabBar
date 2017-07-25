@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  OneViewController.h
 //  底部导航Demo
 //
 //  Created by 付吉祥 on 16/3/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface OneViewController : UIViewController
 
 @end
-
